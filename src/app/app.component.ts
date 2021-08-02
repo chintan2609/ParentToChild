@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PtoC';
+  data={
+    name:'chintan',
+    age: 25
+  }
 }
